@@ -48,14 +48,24 @@ Navigate to the project directory.
 cd your-repo-name/task-2 to do list
 
 ##Repository structure
-your-repo-name/
+
+OCTANET_INTERNSHIP/
 │
+
 ├── task-1/
+
 │   ├── index.html
+
 │   ├── style.css
+
 │   └── script.js
+
 │
+
 └── task-2/
+
     ├── index.html
+    
     ├── style.css
+    
     └── script.js
